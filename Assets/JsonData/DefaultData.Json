@@ -1,0 +1,19 @@
+{
+  "terrainPath": "\\DownLoadData\\SaveTerrains",
+  "texturePath": "\\DownLoadData\\SaveTextures",
+  "targetPath": "\\DownLoadData\\SaveTarget",
+  "myIP": "192.168.10.178",
+  "localConnectIP": "192.168.10.171",
+  "localConnectPort": 7777,
+  "gameServerIP": "192.168.10.116",
+  "gameServerPort": 32506,
+  "serviceUri": "http://192.168.10.116:31810",
+  "scenarioListsUri": "scenario/getScenList",
+  "scenarioDataUri": "scenario/getScen",
+  "timeSeriesUri" : "cpa/timeseries/getCapabilities.json",
+
+  "terrainUri": "cpa/terrain",
+  "textureUri": "cpa/wmts",
+  "targetUri": "cpa/tile3d",
+"targetMaxCnt" : 3000
+}

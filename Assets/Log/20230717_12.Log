@@ -1,0 +1,10 @@
+﻿2023-07-17 12:27:33 | INFO | D:/Work/Quntized-Mesh/01.Souces/2023_GCRR/Assets\JsonData | Load | D:\Work\Quntized-Mesh\01.Souces\2023_GCRR\Assets\Scripts\JsonManager.cs : 84
+2023-07-17 12:27:33 | INFO | [Success] ScenarioList Load Completion. | LoadScenarioList | D:\Work\Quntized-Mesh\01.Souces\2023_GCRR\Assets\Scripts\Scenario\ScenarioInfoClass.cs : 61
+2023-07-17 12:27:34 | INFO | D:/Work/Quntized-Mesh/01.Souces/2023_GCRR/Assets\JsonData | Load | D:\Work\Quntized-Mesh\01.Souces\2023_GCRR\Assets\Scripts\JsonManager.cs : 84
+2023-07-17 12:27:34 | INFO | [Success] ScenarioData Load Completion. | LoadScenarioData | D:\Work\Quntized-Mesh\01.Souces\2023_GCRR\Assets\Scripts\Scenario\ScenarioInfoClass.cs : 77
+2023-07-17 12:27:36 | INFO | Calcu Terrain Index - zoomLevel : 10	org : [Lat : 37.523857	Lon : 127.074736]	Index : [Lat : 1746	Lon : 793 | Initialize | D:\Work\Quntized-Mesh\01.Souces\2023_GCRR\Assets\Scripts\VirtualMap\TerrainCreateClass.cs : 53
+2023-07-17 12:27:36 | INFO | Calcu Texture Index - zoomLevel : 11	org : [Lat : 37.523857	Lon : 127.074736]	Index : [Lat : 1746	Lon : 793 | Initialize | D:\Work\Quntized-Mesh\01.Souces\2023_GCRR\Assets\Scripts\VirtualMap\TerrainCreateClass.cs : 54
+2023-07-17 12:27:37 | INFO | [Object Selected] Fighter | set_Select_ObjectID | D:\Work\Quntized-Mesh\01.Souces\2023_GCRR\Assets\Scripts\ScenarioObject\ScenarioObjectManager.cs : 19
+2023-07-17 12:27:37 | INFO | [Object Selected] None | set_Select_ObjectID | D:\Work\Quntized-Mesh\01.Souces\2023_GCRR\Assets\Scripts\ScenarioObject\ScenarioObjectManager.cs : 19
+2023-07-17 12:27:37 | INFO | [Object Selected] Fighter | set_Select_ObjectID | D:\Work\Quntized-Mesh\01.Souces\2023_GCRR\Assets\Scripts\ScenarioObject\ScenarioObjectManager.cs : 19
+2023-07-17 12:27:37 | INFO | [Object Selected] None | set_Select_ObjectID | D:\Work\Quntized-Mesh\01.Souces\2023_GCRR\Assets\Scripts\ScenarioObject\ScenarioObjectManager.cs : 19

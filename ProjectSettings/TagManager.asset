@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Button
+  - RemotePlayer
+  - Spawner
+  - EventSystem
+  - DestroyLoad
+  - XR Rig Advanced
+  - ObjectReset
+  - VirtualMap
+  - Mapdata
+  - LookAtCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - cursor
+  - 
+  - Restricted
+  - Player
+  - Grabbable
+  - VirtualMap
+  - ScenarioObject
+  - RemotePlayer
+  - Spawner
+  - EventSystem
+  - TargetPoint
+  - TargetObject
+  - Mapdata
+  - ObjectReset
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: UI
+    uniqueID: 3315115667
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
